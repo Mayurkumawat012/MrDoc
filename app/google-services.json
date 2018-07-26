@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "400087715655",
+    "firebase_url": "https://mrdocdemo.firebaseio.com",
+    "project_id": "mrdocdemo",
+    "storage_bucket": "mrdocdemo.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:400087715655:android:79f172452e453228",
+        "android_client_info": {
+          "package_name": "com.myteam.mrdoc"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "400087715655-fh8js2f6ua05i9i1h2gh7use5eaptsmn.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.myteam.mrdoc",
+            "certificate_hash": "4e2563aa864b950b2d13846c653fd8fb455074b5"
+          }
+        },
+        {
+          "client_id": "400087715655-25sjm5e1nmcgi66qntevvfoiv97fls5e.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAqdrfA9l578yi5oOm4ctfAsy78LMoMQUI"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "400087715655-25sjm5e1nmcgi66qntevvfoiv97fls5e.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
